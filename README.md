@@ -24,7 +24,7 @@
 - 提供淨所得及應繳稅額結果，便於比較不同收入階層的稅賦分配。
 - 以 Python 撰寫，可擴展為其他國家的稅制分析。
 - 在Python程式碼中，運用了def函式、if條件判斷和for迴圈等語法，來進行稅率的判斷和計算，另外也使用import語法，來匯入匯率查詢模組，來完善程式的運作。
-- [Python程式連結(以googje colab編寫)](https://colab.research.google.com/drive/1ioii8OfWQqSImesI8Elo3aP_qHCDBmLN?usp=sharing)
+- [Python程式連結(以google colab編寫)](https://colab.research.google.com/drive/1ioii8OfWQqSImesI8Elo3aP_qHCDBmLN?usp=sharing)
 
 # 累進稅率介紹
 ### 累進稅率:
