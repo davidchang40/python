@@ -45,6 +45,9 @@
 - [連結四](https://www.jetro.go.jp/tc/invest/setting_up/section3/page7.html)
 - [連結五](https://thetravellernotes.com/income-tax-in-japan/)
 
-
+### 澳洲稅制資料
+- [連結一](https://www.kaizencpa.com/download/offshore/Introduction%20to%20Individual%20Income%20Tax%20in%20Australia%20(CHT).pdf)
+- [連結二](https://www.isec.com.tw/blog-173mygov_links_to_ato_step_by_step.html)
+- [連結三](https://www2.deloitte.com/tw/tc/pages/tax/articles/update17-aus.html)
 
 
